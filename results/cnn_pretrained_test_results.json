@@ -1,0 +1,111 @@
+{
+    "checkpoint": {
+        "fase": "Fine-Tuning",
+        "epoch": 4,
+        "validation_loss": 0.020231582259513298,
+        "validation_accuracy": 0.9924528301886792
+    },
+    "test": {
+        "accuracy": 0.9849056603773585,
+        "precision_weighted": 0.9851415094339623,
+        "recall_weighted": 0.9849056603773585,
+        "f1_weighted": 0.9849778740626915,
+        "precision_macro": 0.9840419501133787,
+        "recall_macro": 0.985716723965572,
+        "f1_macro": 0.9848326869688685
+    },
+    "accuracy_por_classe": {
+        "bike": {
+            "accuracy": 0.9814814814814815,
+            "corretos": 53,
+            "total": 54
+        },
+        "cars": {
+            "accuracy": 0.9841269841269841,
+            "corretos": 62,
+            "total": 63
+        },
+        "cats": {
+            "accuracy": 0.9666666666666667,
+            "corretos": 29,
+            "total": 30
+        },
+        "dogs": {
+            "accuracy": 0.967741935483871,
+            "corretos": 30,
+            "total": 31
+        },
+        "flowers": {
+            "accuracy": 1.0,
+            "corretos": 32,
+            "total": 32
+        },
+        "horses": {
+            "accuracy": 1.0,
+            "corretos": 28,
+            "total": 28
+        },
+        "human": {
+            "accuracy": 1.0,
+            "corretos": 27,
+            "total": 27
+        }
+    },
+    "classification_report": {
+        "bike": {
+            "precision": 1.0,
+            "recall": 0.9814814814814815,
+            "f1-score": 0.9906542056074766,
+            "support": 54.0
+        },
+        "cars": {
+            "precision": 0.9841269841269841,
+            "recall": 0.9841269841269841,
+            "f1-score": 0.9841269841269841,
+            "support": 63.0
+        },
+        "cats": {
+            "precision": 0.9666666666666667,
+            "recall": 0.9666666666666667,
+            "f1-score": 0.9666666666666667,
+            "support": 30.0
+        },
+        "dogs": {
+            "precision": 0.9375,
+            "recall": 0.967741935483871,
+            "f1-score": 0.9523809523809523,
+            "support": 31.0
+        },
+        "flowers": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 32.0
+        },
+        "horses": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 28.0
+        },
+        "human": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 27.0
+        },
+        "accuracy": 0.9849056603773585,
+        "macro avg": {
+            "precision": 0.9840419501133787,
+            "recall": 0.985716723965572,
+            "f1-score": 0.9848326869688685,
+            "support": 265.0
+        },
+        "weighted avg": {
+            "precision": 0.9851415094339623,
+            "recall": 0.9849056603773585,
+            "f1-score": 0.9849778740626915,
+            "support": 265.0
+        }
+    }
+}

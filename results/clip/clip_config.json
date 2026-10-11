@@ -1,0 +1,32 @@
+{
+    "modelo": "openai/clip-vit-base-patch32",
+    "batch_size": 16,
+    "threshold": 0.22,
+    "quantidade_conceitos": 24,
+    "conceitos": [
+        "a person",
+        "a human face",
+        "a man",
+        "a woman",
+        "a child",
+        "a car",
+        "a bicycle",
+        "a motorcycle",
+        "a food product",
+        "a beverage",
+        "clothing",
+        "shoes",
+        "a smartphone",
+        "a computer",
+        "an electronic device",
+        "furniture",
+        "an animal",
+        "a pet",
+        "outdoor scenery",
+        "a beach",
+        "a city or building",
+        "sports",
+        "text and logo",
+        "a packaged product"
+    ]
+}

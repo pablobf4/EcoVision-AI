@@ -1,0 +1,378 @@
+[
+    {
+        "numero": 1,
+        "consulta": "a person",
+        "visualizacao": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\results\\clip\\semantic_search\\a_person.png",
+        "resultados": [
+            {
+                "posicao": 1,
+                "indice": 51,
+                "score": 0.2585189938545227,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0011\\POS\\U0011_POS_0052_5_th_1459356816.png",
+                "usuario": "U0011",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 2,
+                "indice": 286,
+                "score": 0.24588757753372192,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0058\\POS\\U0058_POS_0287_2.png",
+                "usuario": "U0058",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 3,
+                "indice": 582,
+                "score": 0.2444891780614853,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0117\\POS\\U0117_POS_0583_4_th_1459135581.png",
+                "usuario": "U0117",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 4,
+                "indice": 305,
+                "score": 0.24347656965255737,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0062\\POS\\U0062_POS_0306_4.png",
+                "usuario": "U0062",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 5,
+                "indice": 343,
+                "score": 0.24300885200500488,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0069\\NEG\\U0069_NEG_0344_2.png",
+                "usuario": "U0069",
+                "sentimento": "NEG"
+            }
+        ]
+    },
+    {
+        "numero": 2,
+        "consulta": "an animal",
+        "visualizacao": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\results\\clip\\semantic_search\\an_animal.png",
+        "resultados": [
+            {
+                "posicao": 1,
+                "indice": 49,
+                "score": 0.27563199400901794,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0010\\NEG\\U0010_NEG_0050_2.png",
+                "usuario": "U0010",
+                "sentimento": "NEG"
+            },
+            {
+                "posicao": 2,
+                "indice": 294,
+                "score": 0.2749670147895813,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0059\\NEG\\U0059_NEG_0295_4.png",
+                "usuario": "U0059",
+                "sentimento": "NEG"
+            },
+            {
+                "posicao": 3,
+                "indice": 293,
+                "score": 0.27473747730255127,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0059\\NEG\\U0059_NEG_0294_4_th_1457121307.png",
+                "usuario": "U0059",
+                "sentimento": "NEG"
+            },
+            {
+                "posicao": 4,
+                "indice": 274,
+                "score": 0.27438604831695557,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0055\\NEG\\U0055_NEG_0275_1.png",
+                "usuario": "U0055",
+                "sentimento": "NEG"
+            },
+            {
+                "posicao": 5,
+                "indice": 247,
+                "score": 0.2742847204208374,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0050\\NEG\\U0050_NEG_0248_2.png",
+                "usuario": "U0050",
+                "sentimento": "NEG"
+            }
+        ]
+    },
+    {
+        "numero": 3,
+        "consulta": "a food product",
+        "visualizacao": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\results\\clip\\semantic_search\\a_food_product.png",
+        "resultados": [
+            {
+                "posicao": 1,
+                "indice": 282,
+                "score": 0.2715807557106018,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0057\\POS\\U0057_POS_0283_3.png",
+                "usuario": "U0057",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 2,
+                "indice": 268,
+                "score": 0.2655448317527771,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0054\\NEG\\U0054_NEG_0269_4_th_1457115058.png",
+                "usuario": "U0054",
+                "sentimento": "NEG"
+            },
+            {
+                "posicao": 3,
+                "indice": 549,
+                "score": 0.262201189994812,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0110\\NEG\\U0110_NEG_0550_3.png",
+                "usuario": "U0110",
+                "sentimento": "NEG"
+            },
+            {
+                "posicao": 4,
+                "indice": 7,
+                "score": 0.2619105875492096,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0002\\NEG\\U0002_NEG_0008_3_th_1445286468.png",
+                "usuario": "U0002",
+                "sentimento": "NEG"
+            },
+            {
+                "posicao": 5,
+                "indice": 264,
+                "score": 0.2592984437942505,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0053\\NEG\\U0053_NEG_0265_2_th_1457113560.png",
+                "usuario": "U0053",
+                "sentimento": "NEG"
+            }
+        ]
+    },
+    {
+        "numero": 4,
+        "consulta": "a person outdoors",
+        "visualizacao": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\results\\clip\\semantic_search\\a_person_outdoors.png",
+        "resultados": [
+            {
+                "posicao": 1,
+                "indice": 40,
+                "score": 0.25890815258026123,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0009\\POS\\U0009_POS_0041_5.png",
+                "usuario": "U0009",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 2,
+                "indice": 502,
+                "score": 0.25512343645095825,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0101\\POS\\U0101_POS_0503_1_th_1458481455.png",
+                "usuario": "U0101",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 3,
+                "indice": 501,
+                "score": 0.25402167439460754,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0101\\POS\\U0101_POS_0502_1.png",
+                "usuario": "U0101",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 4,
+                "indice": 470,
+                "score": 0.2520689070224762,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0095\\POS\\U0095_POS_0471_5_th_1458257425.png",
+                "usuario": "U0095",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 5,
+                "indice": 458,
+                "score": 0.2519865334033966,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0092\\NEG\\U0092_NEG_0459_2.png",
+                "usuario": "U0092",
+                "sentimento": "NEG"
+            }
+        ]
+    },
+    {
+        "numero": 5,
+        "consulta": "a child playing sports",
+        "visualizacao": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\results\\clip\\semantic_search\\a_child_playing_sports.png",
+        "resultados": [
+            {
+                "posicao": 1,
+                "indice": 545,
+                "score": 0.28366297483444214,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0110\\POS\\U0110_POS_0546_5.png",
+                "usuario": "U0110",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 2,
+                "indice": 426,
+                "score": 0.2527090311050415,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0086\\POS\\U0086_POS_0427_3.png",
+                "usuario": "U0086",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 3,
+                "indice": 458,
+                "score": 0.25252559781074524,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0092\\NEG\\U0092_NEG_0459_2.png",
+                "usuario": "U0092",
+                "sentimento": "NEG"
+            },
+            {
+                "posicao": 4,
+                "indice": 425,
+                "score": 0.25160205364227295,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0086\\POS\\U0086_POS_0426_3_th_1457628729.png",
+                "usuario": "U0086",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 5,
+                "indice": 350,
+                "score": 0.248857781291008,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0071\\POS\\U0071_POS_0351_4.png",
+                "usuario": "U0071",
+                "sentimento": "POS"
+            }
+        ]
+    },
+    {
+        "numero": 6,
+        "consulta": "a person using an electronic device",
+        "visualizacao": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\results\\clip\\semantic_search\\a_person_using_an_electronic_device.png",
+        "resultados": [
+            {
+                "posicao": 1,
+                "indice": 61,
+                "score": 0.2707972526550293,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0013\\POS\\U0013_POS_0062_1.png",
+                "usuario": "U0013",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 2,
+                "indice": 62,
+                "score": 0.2697533071041107,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0013\\POS\\U0013_POS_0063_1_th_1445458953.png",
+                "usuario": "U0013",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 3,
+                "indice": 289,
+                "score": 0.2531166970729828,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0058\\NEG\\U0058_NEG_0290_2.png",
+                "usuario": "U0058",
+                "sentimento": "NEG"
+            },
+            {
+                "posicao": 4,
+                "indice": 287,
+                "score": 0.25058773159980774,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0058\\NEG\\U0058_NEG_0288_5.png",
+                "usuario": "U0058",
+                "sentimento": "NEG"
+            },
+            {
+                "posicao": 5,
+                "indice": 343,
+                "score": 0.24937216937541962,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0069\\NEG\\U0069_NEG_0344_2.png",
+                "usuario": "U0069",
+                "sentimento": "NEG"
+            }
+        ]
+    },
+    {
+        "numero": 7,
+        "consulta": "a relaxing outdoor scene",
+        "visualizacao": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\results\\clip\\semantic_search\\a_relaxing_outdoor_scene.png",
+        "resultados": [
+            {
+                "posicao": 1,
+                "indice": 342,
+                "score": 0.27885642647743225,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0069\\POS\\U0069_POS_0343_3.png",
+                "usuario": "U0069",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 2,
+                "indice": 40,
+                "score": 0.2669132947921753,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0009\\POS\\U0009_POS_0041_5.png",
+                "usuario": "U0009",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 3,
+                "indice": 432,
+                "score": 0.2559830844402313,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0087\\POS\\U0087_POS_0433_4_th_1457697103.png",
+                "usuario": "U0087",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 4,
+                "indice": 340,
+                "score": 0.2537485361099243,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0069\\POS\\U0069_POS_0341_4_th_1457198655.png",
+                "usuario": "U0069",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 5,
+                "indice": 332,
+                "score": 0.25256407260894775,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0067\\POS\\U0067_POS_0333_1.png",
+                "usuario": "U0067",
+                "sentimento": "POS"
+            }
+        ]
+    },
+    {
+        "numero": 8,
+        "consulta": "a happy social moment",
+        "visualizacao": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\results\\clip\\semantic_search\\a_happy_social_moment.png",
+        "resultados": [
+            {
+                "posicao": 1,
+                "indice": 310,
+                "score": 0.24652746319770813,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0063\\POS\\U0063_POS_0311_4.png",
+                "usuario": "U0063",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 2,
+                "indice": 502,
+                "score": 0.24559327960014343,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0101\\POS\\U0101_POS_0503_1_th_1458481455.png",
+                "usuario": "U0101",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 3,
+                "indice": 501,
+                "score": 0.2440291941165924,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0101\\POS\\U0101_POS_0502_1.png",
+                "usuario": "U0101",
+                "sentimento": "POS"
+            },
+            {
+                "posicao": 4,
+                "indice": 134,
+                "score": 0.24064430594444275,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0027\\NEG\\U0027_NEG_0135_4.png",
+                "usuario": "U0027",
+                "sentimento": "NEG"
+            },
+            {
+                "posicao": 5,
+                "indice": 210,
+                "score": 0.23890939354896545,
+                "arquivo": "C:\\Pos\\MeusProjetosePos\\Pos\\EcoVision-AI\\data\\ads16_clip\\U0043\\POS\\U0043_POS_0211_4.png",
+                "usuario": "U0043",
+                "sentimento": "POS"
+            }
+        ]
+    }
+]

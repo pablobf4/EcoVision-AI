@@ -1,0 +1,170 @@
+[
+    {
+        "conceito": "an animal",
+        "frequencia": 133,
+        "percentual": 22.166666666666668,
+        "score_medio": 0.23941069841384888,
+        "score_maximo": 0.27563199400901794
+    },
+    {
+        "conceito": "a pet",
+        "frequencia": 109,
+        "percentual": 18.166666666666668,
+        "score_medio": 0.24221761524677277,
+        "score_maximo": 0.2790638506412506
+    },
+    {
+        "conceito": "a food product",
+        "frequencia": 101,
+        "percentual": 16.833333333333332,
+        "score_medio": 0.23597192764282227,
+        "score_maximo": 0.27158069610595703
+    },
+    {
+        "conceito": "a person",
+        "frequencia": 100,
+        "percentual": 16.666666666666664,
+        "score_medio": 0.22948066890239716,
+        "score_maximo": 0.25851890444755554
+    },
+    {
+        "conceito": "a human face",
+        "frequencia": 93,
+        "percentual": 15.5,
+        "score_medio": 0.23307980597019196,
+        "score_maximo": 0.25499752163887024
+    },
+    {
+        "conceito": "a packaged product",
+        "frequencia": 81,
+        "percentual": 13.5,
+        "score_medio": 0.23166604340076447,
+        "score_maximo": 0.2710453271865845
+    },
+    {
+        "conceito": "outdoor scenery",
+        "frequencia": 65,
+        "percentual": 10.833333333333334,
+        "score_medio": 0.23710095882415771,
+        "score_maximo": 0.27786529064178467
+    },
+    {
+        "conceito": "an electronic device",
+        "frequencia": 62,
+        "percentual": 10.333333333333334,
+        "score_medio": 0.23045434057712555,
+        "score_maximo": 0.2942802309989929
+    },
+    {
+        "conceito": "a child",
+        "frequencia": 58,
+        "percentual": 9.666666666666666,
+        "score_medio": 0.23167599737644196,
+        "score_maximo": 0.25513118505477905
+    },
+    {
+        "conceito": "sports",
+        "frequencia": 54,
+        "percentual": 9.0,
+        "score_medio": 0.23098741471767426,
+        "score_maximo": 0.27531498670578003
+    },
+    {
+        "conceito": "text and logo",
+        "frequencia": 51,
+        "percentual": 8.5,
+        "score_medio": 0.23497949540615082,
+        "score_maximo": 0.2824632227420807
+    },
+    {
+        "conceito": "a man",
+        "frequencia": 42,
+        "percentual": 7.000000000000001,
+        "score_medio": 0.22754886746406555,
+        "score_maximo": 0.2390410304069519
+    },
+    {
+        "conceito": "clothing",
+        "frequencia": 40,
+        "percentual": 6.666666666666667,
+        "score_medio": 0.23221878707408905,
+        "score_maximo": 0.2630915641784668
+    },
+    {
+        "conceito": "a smartphone",
+        "frequencia": 35,
+        "percentual": 5.833333333333333,
+        "score_medio": 0.23516631126403809,
+        "score_maximo": 0.2698178291320801
+    },
+    {
+        "conceito": "a computer",
+        "frequencia": 31,
+        "percentual": 5.166666666666667,
+        "score_medio": 0.23461154103279114,
+        "score_maximo": 0.26574304699897766
+    },
+    {
+        "conceito": "furniture",
+        "frequencia": 31,
+        "percentual": 5.166666666666667,
+        "score_medio": 0.23163074254989624,
+        "score_maximo": 0.2542707920074463
+    },
+    {
+        "conceito": "a beach",
+        "frequencia": 30,
+        "percentual": 5.0,
+        "score_medio": 0.23494240641593933,
+        "score_maximo": 0.26615071296691895
+    },
+    {
+        "conceito": "a beverage",
+        "frequencia": 30,
+        "percentual": 5.0,
+        "score_medio": 0.22885103523731232,
+        "score_maximo": 0.26102837920188904
+    },
+    {
+        "conceito": "a car",
+        "frequencia": 27,
+        "percentual": 4.5,
+        "score_medio": 0.23290137946605682,
+        "score_maximo": 0.2608429491519928
+    },
+    {
+        "conceito": "a city or building",
+        "frequencia": 20,
+        "percentual": 3.3333333333333335,
+        "score_medio": 0.23592805862426758,
+        "score_maximo": 0.2567738890647888
+    },
+    {
+        "conceito": "shoes",
+        "frequencia": 20,
+        "percentual": 3.3333333333333335,
+        "score_medio": 0.2307697832584381,
+        "score_maximo": 0.2568681836128235
+    },
+    {
+        "conceito": "a bicycle",
+        "frequencia": 15,
+        "percentual": 2.5,
+        "score_medio": 0.22577308118343353,
+        "score_maximo": 0.232880637049675
+    },
+    {
+        "conceito": "a woman",
+        "frequencia": 14,
+        "percentual": 2.3333333333333335,
+        "score_medio": 0.23341037333011627,
+        "score_maximo": 0.2519932687282562
+    },
+    {
+        "conceito": "a motorcycle",
+        "frequencia": 12,
+        "percentual": 2.0,
+        "score_medio": 0.23122508823871613,
+        "score_maximo": 0.27766236662864685
+    }
+]

@@ -1,0 +1,29 @@
+# Ambiente virtual
+.venv/
+
+# Datasets locais (baixados pelos scripts/notebooks)
+data/*
+!data/.gitkeep
+
+# Pesos treinados
+models/*.pth
+models/*.pt
+!models/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Temporários
+*.zip

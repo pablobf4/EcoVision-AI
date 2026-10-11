@@ -1,0 +1,41 @@
+consulta,posicao,indice,score,arquivo,usuario,sentimento
+a person,1,51,0.2585189938545227,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0011\POS\U0011_POS_0052_5_th_1459356816.png,U0011,POS
+a person,2,286,0.24588757753372192,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0058\POS\U0058_POS_0287_2.png,U0058,POS
+a person,3,582,0.2444891780614853,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0117\POS\U0117_POS_0583_4_th_1459135581.png,U0117,POS
+a person,4,305,0.24347656965255737,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0062\POS\U0062_POS_0306_4.png,U0062,POS
+a person,5,343,0.24300885200500488,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0069\NEG\U0069_NEG_0344_2.png,U0069,NEG
+an animal,1,49,0.27563199400901794,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0010\NEG\U0010_NEG_0050_2.png,U0010,NEG
+an animal,2,294,0.2749670147895813,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0059\NEG\U0059_NEG_0295_4.png,U0059,NEG
+an animal,3,293,0.27473747730255127,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0059\NEG\U0059_NEG_0294_4_th_1457121307.png,U0059,NEG
+an animal,4,274,0.27438604831695557,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0055\NEG\U0055_NEG_0275_1.png,U0055,NEG
+an animal,5,247,0.2742847204208374,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0050\NEG\U0050_NEG_0248_2.png,U0050,NEG
+a food product,1,282,0.2715807557106018,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0057\POS\U0057_POS_0283_3.png,U0057,POS
+a food product,2,268,0.2655448317527771,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0054\NEG\U0054_NEG_0269_4_th_1457115058.png,U0054,NEG
+a food product,3,549,0.262201189994812,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0110\NEG\U0110_NEG_0550_3.png,U0110,NEG
+a food product,4,7,0.2619105875492096,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0002\NEG\U0002_NEG_0008_3_th_1445286468.png,U0002,NEG
+a food product,5,264,0.2592984437942505,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0053\NEG\U0053_NEG_0265_2_th_1457113560.png,U0053,NEG
+a person outdoors,1,40,0.25890815258026123,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0009\POS\U0009_POS_0041_5.png,U0009,POS
+a person outdoors,2,502,0.25512343645095825,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0101\POS\U0101_POS_0503_1_th_1458481455.png,U0101,POS
+a person outdoors,3,501,0.25402167439460754,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0101\POS\U0101_POS_0502_1.png,U0101,POS
+a person outdoors,4,470,0.2520689070224762,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0095\POS\U0095_POS_0471_5_th_1458257425.png,U0095,POS
+a person outdoors,5,458,0.2519865334033966,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0092\NEG\U0092_NEG_0459_2.png,U0092,NEG
+a child playing sports,1,545,0.28366297483444214,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0110\POS\U0110_POS_0546_5.png,U0110,POS
+a child playing sports,2,426,0.2527090311050415,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0086\POS\U0086_POS_0427_3.png,U0086,POS
+a child playing sports,3,458,0.25252559781074524,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0092\NEG\U0092_NEG_0459_2.png,U0092,NEG
+a child playing sports,4,425,0.25160205364227295,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0086\POS\U0086_POS_0426_3_th_1457628729.png,U0086,POS
+a child playing sports,5,350,0.248857781291008,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0071\POS\U0071_POS_0351_4.png,U0071,POS
+a person using an electronic device,1,61,0.2707972526550293,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0013\POS\U0013_POS_0062_1.png,U0013,POS
+a person using an electronic device,2,62,0.2697533071041107,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0013\POS\U0013_POS_0063_1_th_1445458953.png,U0013,POS
+a person using an electronic device,3,289,0.2531166970729828,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0058\NEG\U0058_NEG_0290_2.png,U0058,NEG
+a person using an electronic device,4,287,0.25058773159980774,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0058\NEG\U0058_NEG_0288_5.png,U0058,NEG
+a person using an electronic device,5,343,0.24937216937541962,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0069\NEG\U0069_NEG_0344_2.png,U0069,NEG
+a relaxing outdoor scene,1,342,0.27885642647743225,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0069\POS\U0069_POS_0343_3.png,U0069,POS
+a relaxing outdoor scene,2,40,0.2669132947921753,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0009\POS\U0009_POS_0041_5.png,U0009,POS
+a relaxing outdoor scene,3,432,0.2559830844402313,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0087\POS\U0087_POS_0433_4_th_1457697103.png,U0087,POS
+a relaxing outdoor scene,4,340,0.2537485361099243,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0069\POS\U0069_POS_0341_4_th_1457198655.png,U0069,POS
+a relaxing outdoor scene,5,332,0.25256407260894775,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0067\POS\U0067_POS_0333_1.png,U0067,POS
+a happy social moment,1,310,0.24652746319770813,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0063\POS\U0063_POS_0311_4.png,U0063,POS
+a happy social moment,2,502,0.24559327960014343,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0101\POS\U0101_POS_0503_1_th_1458481455.png,U0101,POS
+a happy social moment,3,501,0.2440291941165924,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0101\POS\U0101_POS_0502_1.png,U0101,POS
+a happy social moment,4,134,0.24064430594444275,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0027\NEG\U0027_NEG_0135_4.png,U0027,NEG
+a happy social moment,5,210,0.23890939354896545,C:\Pos\MeusProjetosePos\Pos\EcoVision-AI\data\ads16_clip\U0043\POS\U0043_POS_0211_4.png,U0043,POS
